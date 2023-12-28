@@ -1,2 +1,2 @@
 # LunarVimConfiguration
-neovim con
+neovim v0.9.4
